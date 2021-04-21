@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-react-native-yoyo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Official eslint configuration and coding style standard for react-native projects inside yoyo",
   "main": "index.js",
   "scripts": {
