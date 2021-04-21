@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-react-native-yoyo",
+  "version": "1.0.0",
+  "description": "Official eslint configuration and coding style standard for react-native projects inside yoyo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoyo-holdings/eslint-config-react-native-yoyo.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "Alleo Indong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoyo-holdings/eslint-config-react-native-yoyo/issues"
+  },
+  "homepage": "https://github.com/yoyo-holdings/eslint-config-react-native-yoyo#readme"
+}
