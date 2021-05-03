@@ -14,6 +14,8 @@ module.exports = {
         avoidEscape: true,
       },
     ],
+    "no-redeclare": "off",
+    "@typescript-eslint/no-redeclare": ["error"],
     "max-len": ["error", 120],
     "@typescript-eslint/ban-ts-comment": 2,
     "@typescript-eslint/no-explicit-any": 2,
